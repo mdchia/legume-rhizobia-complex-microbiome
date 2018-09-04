@@ -36,4 +36,4 @@ Ming-Dao Chia, Anna Simonsen, Andrew Almonte, Justin Borevitz
 
 - Potential horizontal gene transfer events are identified bioinformatically.
 
-Contact: [Ming-Dao.Chia@anu.edu.au]
+Contact: Ming-Dao.Chia@anu.edu.au
