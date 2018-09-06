@@ -1,5 +1,5 @@
 
-[Growth chamber photosphere](https://photos.app.goo.gl/p4MdjcMeCVrbj23q6)
+[Growth chamber VR photosphere](https://photos.app.goo.gl/p4MdjcMeCVrbj23q6)
 
 # Legume-rhizobia interactions in a complex microbiome
 
