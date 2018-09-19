@@ -1,6 +1,10 @@
 
 [Growth chamber VR photosphere](https://photos.app.goo.gl/p4MdjcMeCVrbj23q6)
 
+[Protocols used in this experiment](https://www.protocols.io/private/25F4013B95EBD3B555505D8802E25573)
+
+[Code for analysis and setup](https://github.com/borevitzlab/ming-honours-code)
+
 # Legume-rhizobia interactions in a complex microbiome
 
 Ming-Dao Chia, Anna Simonsen, Andrew Almonte, Justin Borevitz
