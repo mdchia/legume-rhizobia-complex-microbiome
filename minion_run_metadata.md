@@ -68,8 +68,10 @@ Using MinKNOW 2.0
 
 1/2 of growth capsule incubated pot samples.
 
+[Full pot metadata]([https://github.com/borevitzlab/ming-honours-code](https://github.com/borevitzlab/ming-honours-code) (see [gc\_treatment\_list.csv](https://github.com/borevitzlab/ming-honours-code/blob/master/gc_treatment_list.csv "gc_treatment_list.csv") and [treatments.csv](https://github.com/borevitzlab/ming-honours-code/blob/master/treatments.csv "treatments.csv") )
+
 | Run | Barcode | Pot | Sample | Description                       |
-|-----|---------|-----|--------|-----------------------------------|
+| --- | ------- | --- | ------ | --------------------------------- |
 | 1   | 1       | 213 | S      | Sand, Soil+Culture, No plant      |
 | 1   | 2       | 210 | R      | Nodules, Culture mix, Plant       |
 | 1   | 3       | 217 | S      | Sand, Soil+Culture, Plant         |
@@ -83,7 +85,6 @@ Using MinKNOW 2.0
 | 1   | 11      | 207 | S      | Sand, Sterile, Plant              |
 | 1   | 12      | 211 | S      | Sand, Soil slurry, No plant       |
 
-
 FLO-MIN106
 
 Using MinKNOW 2
@@ -94,21 +95,20 @@ Using MinKNOW 2
 
 2/2 of growth capsule incubated pot samples.
 
-| Run | Barcode | Pot | Sample | Description                       |
-|-----|---------|-----|--------|-----------------------------------|
-| 2   | 1       | 227 | S      | Sand, Soil slurry, Plant          |
-| 2   | 2       | 233 | S      | Sand, Soil+Culture, No plant      |
-| 2   | 3       | 234 | S      | Sand, Sterile, No plant           |
-| 2   | 4       | 222 | S      | Sand, Culture mix, Plant          |
-| 2   | 5       | 224 | S      | Sand, Soil+Culture, Plant         |
-| 2   | 6       | 228 | S      | Sand, Soil+Culture, Plant         |
-| 2   | 7       | 232 | S      | Sand, Soil+Culture, Plant         |
-| 2   | 8       | 228 | R      | Nodules, Soil+Culture, Plant      |
-| 2   | 9       | 223 | S      | Sand, Soil slurry, No plant       |
-| 2   | 10      | 224 | R      | Nodules, Soil+Culture, Plant      |
-| 2   | 11      | 231 | S      | Sand, Sterile, Plant              |
-| 2   | 12      | 236 | S      | Sand, Soil+Culture, Plant         |
-
+| Run | Barcode | Pot | Sample | Description                  |
+| --- | ------- | --- | ------ | ---------------------------- |
+| 2   | 1       | 227 | S      | Sand, Soil slurry, Plant     |
+| 2   | 2       | 233 | S      | Sand, Soil+Culture, No plant |
+| 2   | 3       | 234 | S      | Sand, Sterile, No plant      |
+| 2   | 4       | 222 | S      | Sand, Culture mix, Plant     |
+| 2   | 5       | 224 | S      | Sand, Soil+Culture, Plant    |
+| 2   | 6       | 228 | S      | Sand, Soil+Culture, Plant    |
+| 2   | 7       | 232 | S      | Sand, Soil+Culture, Plant    |
+| 2   | 8       | 228 | R      | Nodules, Soil+Culture, Plant |
+| 2   | 9       | 223 | S      | Sand, Soil slurry, No plant  |
+| 2   | 10      | 224 | R      | Nodules, Soil+Culture, Plant |
+| 2   | 11      | 231 | S      | Sand, Sterile, Plant         |
+| 2   | 12      | 236 | S      | Sand, Soil+Culture, Plant    |
 
 FLO-MIN106
 
