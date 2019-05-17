@@ -90,7 +90,7 @@ Using MinKNOW 2
 
 ## Run 5
 
-*2018-09-18*
+*2018-09-19*
 
 2/2 of growth capsule incubated pot samples.
 
